@@ -1,4 +1,6 @@
 this is git test
 Cloneからの変更
 tutorialでの変更
+Cloneでの変更2
 tutorialでの変更2
+tutorialでの変更3
